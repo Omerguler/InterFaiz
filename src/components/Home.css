@@ -1,0 +1,138 @@
+.page {
+  text-align: center;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+.row-pane {
+  vertical-align: top;
+  display: inline-block;
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+.row {
+  margin: 80px 0 0 0;
+}
+.left {
+  vertical-align: top;
+  margin-top: 100px;
+  display: inline-block;
+  margin-left: 10%;
+  width: 40%;
+  height: 400px;
+  position: relative;
+}
+.variable-top {
+  display: inline-flexbox;
+  padding: 10px 10px 10px 10px;
+  height: 90px;
+}
+.variable-pane {
+  position: relative;
+  height: 90px;
+}
+.variable-names {
+  padding-right: 10px;
+  font-size: 25px;
+}
+.right {
+  position: relative;
+  vertical-align: top;
+  margin-top: 100px;
+  display: inline-block;
+  width: 40%;
+  margin-right: 10%;
+  height: 400px;
+}
+.right-header {
+  font-size: 50px;
+}
+.right-variable {
+  font-size: 30px;
+}
+.currency {
+  float: left;
+  width: 180px;
+  height: 40px;
+  font-size: 15px;
+  background-color: #86868669;
+  color: #9f58a3;
+  border-radius: 15px;
+}
+.css-2b097c-container {
+  width: 180px;
+  height: 40px;
+}
+
+.para-miktari {
+  float: left;
+  margin-left: 15px;
+  font-size: 20px;
+}
+.para-miktari-input {
+  float: left;
+  height: 38px;
+  font-size: 18px;
+}
+.padding-amount {
+  padding-left: 3px;
+}
+.gun-sayisi {
+  font-size: 20px;
+}
+.date-input {
+  margin: 10px 10px 10px 10px;
+  background-color: aliceblue;
+}
+.input-round {
+  border-radius: 0.25rem;
+  box-shadow: 2px 5px 7px grey;
+}
+.column {
+  width: 500px;
+  padding: 15px;
+  margin-left: 10px;
+}
+.column-input {
+  font-size: 20px;
+  float: left;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  color: #d80ac7d3;
+}
+
+a:hover {
+  color: #d1cbcb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/*Media queries for smaller devices*/
+.navbar-expand-sm {
+  background-color: #8f4b92;
+}
+.navbar-brand {
+  vertical-align: top;
+  margin-left: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: black;
+
+  font-size: 30px;
+}
+
+.graph-pane {
+  padding-top: 40px;
+  display: inline-block;
+  position: relative;
+}
+.graph-button {
+  margin: 10px 10px 10px 10px;
+}
+.graph-style {
+  background-color: #afaeae69;
+}
